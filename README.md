@@ -1,8 +1,9 @@
 <h1 align="center">I'm Prutha Pawade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F1F&center=true&vCenter=true&multiline=true&width=435&lines= Software+Engineer+%7C+Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F1F&center=true&vCenter=true&multiline=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ---
 
