@@ -1,17 +1,15 @@
-<h1 align="center">Hi there 👋 I'm Prutha Pawade</h1>
+<h1 align="center">I'm Prutha Pawade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F1F&center=true&vCenter=true&multiline=true&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F1F&center=true&vCenter=true&multiline=true&width=435&lines= Software+Engineer+%7C+Full+Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG" />
 </p>
 
 ---
 
-🌱 Currently learning: **Next.js**, **Generative AI**, and **Advanced Full Stack Development**  
-🌍 Languages: **English**, **Hindi**, **Marathi**  
-📫 Reach me: [pruthapawade000@gmail.com](mailto:pruthapawade000@gmail.com)  
-💬 Ask me about: **Web Development**, **Java**, **OOPs**, **Projects**, **Hackathons**  
-🔗 Projects: [GitHub Portfolio »](https://github.com/pruthapawade19)  
-📍 Location: **Pune, India**
+Experienced in: **Next.js**, **Generative AI**, and **Advanced Full Stack Development**   
+Reach me: [pruthapawade000@gmail.com](mailto:pruthapawade000@gmail.com)    
+Projects: [GitHub Portfolio »](https://github.com/pruthapawade19)  
+Location: **Pune, India**
 
 ---
 
@@ -48,10 +46,5 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Prutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
 
